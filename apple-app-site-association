@@ -1,0 +1,25 @@
+{
+  "applinks": {
+    "apps": [],
+    "details": [
+      {
+        "appID": "WX36628N92.com.factorymarket.ios",
+        "paths": [
+          "*"
+        ]
+      },
+      {
+        "appID": "WX36628N92.com.factorymarket.ios.beta",
+        "paths": [
+          "*"
+        ]
+      },
+      {
+        "appID": "WX36628N92.com.factorymarket.ios.debug",
+        "paths": [
+          "*"
+        ]
+      }
+    ]
+  }
+}
